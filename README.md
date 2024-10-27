@@ -1,7 +1,6 @@
 # Todo CLI
 
 A simple command-line interface for managing your tasks.
-A test project found on https://roadmap.sh/projects/task-tracker
 
 ## Features
 - **Add tasks**  
@@ -66,3 +65,5 @@ Feel free to submit issues and pull requests. Your contributions are welcome!
 ## License
 
 This project is licensed under the MIT License.
+- A test project found on https://roadmap.sh/projects/task-tracker
+
